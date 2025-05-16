@@ -3,6 +3,11 @@ This repository contains the implementation of various statistical and machine l
 
 ---
 
+## 📂 Dataset
+The dataset used for this project is publicly available on [Kaggle](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data).  
+Of the various .txt files in the dataset within this project, only ‘combined_data_1.txt’ will be used due to the limited computing resources available. This file must be placed in the directory 📂 ‘/dataset’, which is not present in the repository.
+
+---
 ## 📚 Project Description
 The Netflix Prize was a competition held to improve the accuracy of movie recommendation systems. This project replicates a similar environment using a dataset of user ratings and explores multiple approaches to predict unseen ratings. The models are evaluated primarily using the Root Mean Squared Error (RMSE).
 
